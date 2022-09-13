@@ -1,0 +1,19 @@
+.blue{
+    float: left;
+    width: 47%;
+    padding: 9px;
+    height: 300px;
+    background-color: blue;
+}
+.green{
+    float: left;
+    width: 47%;
+    padding: 9px;
+    height: 300px;
+    background-color: green;
+}
+.divs:after{
+    content: "";
+    display: table;
+    clear: both;
+}
