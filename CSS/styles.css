@@ -17,3 +17,15 @@
     display: table;
     clear: both;
 }
+.cars{
+    float: left;
+    width: 33.33%;
+    height: 300px;
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 25%;
+    height: 300px;
+    text-align: center;
+}
